@@ -1,0 +1,6 @@
+
+[Usage]
+Valid Command
+1. AT
+
+2. AT_CMGF=1
